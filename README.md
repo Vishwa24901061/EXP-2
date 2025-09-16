@@ -49,20 +49,21 @@ Load test
 
 ### Tabulation for Open Circuit Test:
 
-<img width="922" height="1388" alt="image" src="https://github.com/user-attachments/assets/081a5b82-5b33-4d42-ab09-e6e414b733c4" />
+<img width="1252" height="940" alt="Screenshot 2025-09-16 213035" src="https://github.com/user-attachments/assets/b30696f7-e412-4d0f-9c48-baa1cff23cad" />
+
 
 
 ### Tabulation for Load Test:
 
-<img width="1600" height="1237" alt="image" src="https://github.com/user-attachments/assets/3f86fd44-fc11-4c44-bc4c-438dab04cc3d" />
+<img width="1236" height="964" alt="Screenshot 2025-09-16 213020" src="https://github.com/user-attachments/assets/e5d20691-fcd2-4ba2-bfda-e854681467c9" />
 
 
 ### Model graph:
+<img width="1560" height="993" alt="Screenshot 2025-09-16 213006" src="https://github.com/user-attachments/assets/ac70edb9-8d2c-4b87-868f-e03cd538464f" />
 
-<img width="1600" height="1134" alt="image" src="https://github.com/user-attachments/assets/30b7b728-1688-48c2-b0f8-3cd0a067282b" />
 
 ### Calculation: 
-<img width="848" height="1336" alt="image" src="https://github.com/user-attachments/assets/66b09324-130c-4577-8f80-c64a7470baa1" />
+<img width="1589" height="971" alt="Screenshot 2025-09-16 212951" src="https://github.com/user-attachments/assets/75210477-9fa1-4446-b0f2-5fcc14e8f2e6" />
 
 
 ### Open circuit characteristics:
